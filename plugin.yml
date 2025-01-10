@@ -1,0 +1,6 @@
+---
+name: Lunarity
+api: 4.0.0
+main: lc\Lunarity
+version: 1
+author: Lucia
