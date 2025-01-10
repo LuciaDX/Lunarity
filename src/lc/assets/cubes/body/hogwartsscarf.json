@@ -1,0 +1,193 @@
+[
+	{
+		"name": "hogwartsscarf",
+		"parent": "body",
+		"pivot": [-1.12333, 0, 0.16089]
+	},
+	{
+		"name": "hogwartsscarf2",
+		"parent": "hogwartsscarf",
+		"pivot": [-3.52333, 24.5, -2.63911]
+	},
+	{
+		"name": "hogwartsscarf10",
+		"parent": "hogwartsscarf2",
+		"pivot": [5.47667, 21.7, -7.13911],
+		"rotation": [-27.19, -2.65, -91.51],
+		"cubes": [
+			{
+				"origin": [1.13927, 30.617, -8.02461],
+				"size": [4, 3, 1],
+				"inflate": 0.01,
+				"uv": {
+					"north": {"uv": [2, 66], "uv_size": [8, 6]},
+					"east": {"uv": [0, 66], "uv_size": [2, 6]},
+					"south": {"uv": [12, 66], "uv_size": [8, 6]},
+					"west": {"uv": [10, 66], "uv_size": [2, 6]},
+					"up": {"uv": [2, 64], "uv_size": [8, 2]},
+					"down": {"uv": [10, 66], "uv_size": [8, -2]}
+				}
+			}
+		]
+	},
+	{
+		"name": "hogwartsscarf11",
+		"parent": "hogwartsscarf2",
+		"pivot": [-3.12333, 24.7, -2.73911],
+		"rotation": [-27.25, 1.94, -82.62],
+		"cubes": [
+			{
+				"origin": [-7.24613, 23.4103, -3.50921],
+				"size": [4, 3, 1],
+				"uv": {
+					"north": {"uv": [2, 66], "uv_size": [8, 6]},
+					"east": {"uv": [0, 66], "uv_size": [2, 6]},
+					"south": {"uv": [12, 66], "uv_size": [8, 6]},
+					"west": {"uv": [10, 66], "uv_size": [2, 6]},
+					"up": {"uv": [2, 64], "uv_size": [8, 2]},
+					"down": {"uv": [10, 66], "uv_size": [8, -2]}
+				}
+			}
+		]
+	},
+	{
+		"name": "hogwartsscarf3",
+		"parent": "hogwartsscarf",
+		"pivot": [-6.02333, 24.5, 0.31089],
+		"rotation": [141.39, 88.3, 149.67],
+		"cubes": [
+			{
+				"origin": [-6.10073, 22.0015, 1.95299],
+				"size": [3, 3, 1],
+				"uv": {
+					"north": {"uv": [2, 74], "uv_size": [6, 6]},
+					"east": {"uv": [0, 74], "uv_size": [2, 6]},
+					"south": {"uv": [10, 74], "uv_size": [6, 6]},
+					"west": {"uv": [8, 74], "uv_size": [2, 6]},
+					"up": {"uv": [2, 72], "uv_size": [6, 2]},
+					"down": {"uv": [8, 74], "uv_size": [6, -2]}
+				}
+			}
+		]
+	},
+	{
+		"name": "hogwartsscarf4",
+		"parent": "hogwartsscarf",
+		"pivot": [-3.02333, 23.5, 2.31089],
+		"rotation": [-179.01, 56.53, -174.1],
+		"cubes": [
+			{
+				"origin": [-4.61673, 21.6281, 2.14729],
+				"size": [4, 3, 1],
+				"uv": {
+					"north": {"uv": [2, 74], "uv_size": [8, 6]},
+					"east": {"uv": [0, 74], "uv_size": [2, 6]},
+					"south": {"uv": [12, 74], "uv_size": [8, 6]},
+					"west": {"uv": [10, 74], "uv_size": [2, 6]},
+					"up": {"uv": [2, 72], "uv_size": [8, 2]},
+					"down": {"uv": [10, 74], "uv_size": [8, -2]}
+				}
+			}
+		]
+	},
+	{
+		"name": "hogwartsscarf5",
+		"parent": "hogwartsscarf",
+		"pivot": [-0.27333, 23, 3.56089],
+		"rotation": [-179.06, 4.98, 177.52],
+		"cubes": [
+			{
+				"origin": [-2.22813, 21.3541, 3.47799],
+				"size": [4, 3, 1],
+				"uv": {
+					"north": {"uv": [2, 66], "uv_size": [8, 6]},
+					"east": {"uv": [0, 66], "uv_size": [2, 6]},
+					"south": {"uv": [12, 66], "uv_size": [8, 6]},
+					"west": {"uv": [10, 66], "uv_size": [2, 6]},
+					"up": {"uv": [2, 64], "uv_size": [8, 2]},
+					"down": {"uv": [10, 66], "uv_size": [8, -2]}
+				}
+			}
+		]
+	},
+	{
+		"name": "hogwartsscarf6",
+		"parent": "hogwartsscarf",
+		"pivot": [3.07667, 23.8, 2.36089],
+		"rotation": [-171.5, -40, 172.5],
+		"cubes": [
+			{
+				"origin": [1.07887, 21.6491, 2.24049],
+				"size": [4, 3, 1],
+				"uv": {
+					"north": {"uv": [2, 66], "uv_size": [8, 6]},
+					"east": {"uv": [0, 66], "uv_size": [2, 6]},
+					"south": {"uv": [12, 66], "uv_size": [8, 6]},
+					"west": {"uv": [10, 66], "uv_size": [2, 6]},
+					"up": {"uv": [2, 64], "uv_size": [8, 2]},
+					"down": {"uv": [10, 66], "uv_size": [8, -2]}
+				}
+			}
+		]
+	},
+	{
+		"name": "hogwartsscarf7",
+		"parent": "hogwartsscarf",
+		"pivot": [3.22667, 13, -0.43911],
+		"rotation": [0, -90, 2.5],
+		"cubes": [
+			{
+				"origin": [0.79297, 21.9973, -1.33911],
+				"size": [4, 3, 1],
+				"uv": {
+					"north": {"uv": [2, 66], "uv_size": [8, 6]},
+					"east": {"uv": [0, 66], "uv_size": [2, 6]},
+					"south": {"uv": [12, 66], "uv_size": [8, 6]},
+					"west": {"uv": [10, 66], "uv_size": [2, 6]},
+					"up": {"uv": [2, 64], "uv_size": [8, 2]},
+					"down": {"uv": [10, 66], "uv_size": [8, -2]}
+				}
+			}
+		]
+	},
+	{
+		"name": "hogwartsscarf8",
+		"parent": "hogwartsscarf",
+		"pivot": [-1.02333, 23.4, -3.43911],
+		"rotation": [-4.67, 7.71, -4.98],
+		"cubes": [
+			{
+				"origin": [-3.99703, 21.922, -3.42391],
+				"size": [4, 3, 1],
+				"uv": {
+					"north": {"uv": [2, 66], "uv_size": [8, 6]},
+					"east": {"uv": [0, 66], "uv_size": [2, 6]},
+					"south": {"uv": [12, 66], "uv_size": [8, 6]},
+					"west": {"uv": [10, 66], "uv_size": [2, 6]},
+					"up": {"uv": [2, 64], "uv_size": [8, 2]},
+					"down": {"uv": [10, 66], "uv_size": [8, -2]}
+				}
+			}
+		]
+	},
+	{
+		"name": "hogwartsscarf9",
+		"parent": "hogwartsscarf",
+		"pivot": [1.87667, 23, -2.43911],
+		"rotation": [0, 0, 1],
+		"cubes": [
+			{
+				"origin": [-0.15793, 21.9648, -3.43911],
+				"size": [4, 3, 1],
+				"uv": {
+					"north": {"uv": [2, 66], "uv_size": [8, 6]},
+					"east": {"uv": [0, 66], "uv_size": [2, 6]},
+					"south": {"uv": [12, 66], "uv_size": [8, 6]},
+					"west": {"uv": [10, 66], "uv_size": [2, 6]},
+					"up": {"uv": [2, 64], "uv_size": [8, 2]},
+					"down": {"uv": [10, 66], "uv_size": [8, -2]}
+				}
+			}
+		]
+	}
+]

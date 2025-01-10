@@ -1,0 +1,57 @@
+[
+	{
+		"name": "pet",
+		"pivot": [0, 0, 0]
+	},
+	{
+		"name": "amongguy",
+		"parent": "pet",
+		"pivot": [11, 25, -0.25],
+		"rotation": [-180, 180, 180]
+	},
+	{
+		"name": "amongguy2",
+		"parent": "amongguy",
+		"pivot": [11, 29.5, -0.25],
+		"cubes": [
+			{"origin": [7, 28, -2.25], "size": [8, 12, 4], "uv": [64, 64]}
+		]
+	},
+	{
+		"name": "amongguy3",
+		"parent": "amongguy2",
+		"pivot": [11, 35.5, -2.75],
+		"cubes": [
+			{"origin": [7.5, 33.5, -3.25], "size": [7, 4, 1], "uv": [80, 80]}
+		]
+	},
+	{
+		"name": "amongguy4",
+		"parent": "amongguy2",
+		"pivot": [11, 33.5, 1.75],
+		"cubes": [
+			{"origin": [8, 29.5, 1.75], "size": [6, 8, 2], "uv": [64, 80]}
+		]
+	},
+	{
+		"name": "amongguy5",
+		"parent": "amongguy",
+		"pivot": [11, 27.3, -0.25]
+	},
+	{
+		"name": "amongguy6",
+		"parent": "amongguy5",
+		"pivot": [13.25, 28.3, -0.25],
+		"cubes": [
+			{"origin": [11.75, 25.3, -1.75], "size": [3, 3, 3], "uv": [80, 85]}
+		]
+	},
+	{
+		"name": "amongguy7",
+		"parent": "amongguy5",
+		"pivot": [8.75, 28.3, -0.25],
+		"cubes": [
+			{"origin": [7.25, 25.3, -1.75], "size": [3, 3, 3], "uv": [64, 90]}
+		]
+	}
+]
